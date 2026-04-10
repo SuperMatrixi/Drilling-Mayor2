@@ -3,6 +3,26 @@
 Mise à jour : Avril 2026
 
 ---
+# Drilling-Mayor2
+**SPACE for the "CLEAN CITY" effort by Serge Baresi TESSA in the city of Dschang Western Cameroon**
+
+## 📁 Contents
+- **assets/** - Images, videos, and media
+- **content/** - Projects and initiatives
+- **docs/** - Documentation and guidelines
+
+## 🎯 Mission
+[clean the city of dschang in western cammeroon inches by inches ]# Drilling-Mayor2
+
+**SPACE for the "CLEAN CITY" effort by Serge Baresi TESSA in the city of Dschang Western Cameroon**
+
+## 📁 Contents
+- **assets/** - Images, videos, and media
+- **content/** - Projects and initiatives
+- **docs/** - Documentation and guidelines
+
+## 🎯 Mission
+[Add your mission statement]
 
 ## 📁 Fichiers à déployer (v6)
 

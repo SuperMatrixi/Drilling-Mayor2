@@ -20,7 +20,7 @@ Led by **Serge Baresi Tessa**, MRC candidate for Mayor of Dschang, this project 
 
 ## 🚀 Live Site
 
-🌐 **[tessa2026.netlify.app](https://tessa2026.netlify.app)**
+🌐 **[tessa2026.org](https://tessa2026.org)**
 
 ---
 

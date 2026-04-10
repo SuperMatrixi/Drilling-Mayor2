@@ -3,50 +3,40 @@
 Mise à jour : Avril 2026
 
 ---
-# Drilling-Mayor2
-**SPACE for the "CLEAN CITY" effort by Serge Baresi TESSA in the city of Dschang Western Cameroon**
-
-## 📁 Contents
-- **assets/** - Images, videos, and media
-- **content/** - Projects and initiatives
-- **docs/** - Documentation and guidelines
-
-## 🎯 Mission
-[clean the city of dschang in western cammeroon inches by inches ]# Drilling-Mayor2
-
-**SPACE for the "CLEAN CITY" effort by Serge Baresi TESSA in the city of Dschang Western Cameroon**
-
-## 📁 Contents
-- **assets/** - Images, videos, and media
-- **content/** - Projects and initiatives
-- **docs/** - Documentation and guidelines
-
-## 🎯 Mission
-[Add your mission statement]
 
 ## 📁 Fichiers à déployer (v6)
 
 ```
-dschang2026/
-├── index.html          ← REMPLACER l'ancien par cette v6 (~154 KB)
-└── assets/images/      ← Aucune nouvelle image en v6
-    (toutes les images v5 sont inchangées)
+Drilling-Mayor2/
+├── src/
+│   ├── index.html          ← Application web principale (~156 KB)
+│   ├── js/
+│   │   ├── chatbot.js      ← Chatbot AzA (40 FAQ x 3 langues)
+│   │   └── main.js         ← Navigation, carousel, formulaires, météo
+│   └── css/
+│       └── style.css       ← Feuille de styles principale
+└── assets/images/          ← 25 images (voir CONTENT.md)
+    ├── hero/               ← TeamMRC.jpg ✅ déjà fournie
+    ├── blog/               ← pdf-challlenge.png
+    ├── press/              ← 7 images presse
+    ├── carousel/           ← 15 images carousel
+    └── logos/              ← logo-dschang2026.png · logo-mrc.png
 ```
 
-**Seul `index.html` a changé en v6.**
+> ⚠️ **Important** : Pour le déploiement Netlify, les images doivent se trouver dans `src/assets/images/` (le dossier `publish` est `src`). Le dossier racine `assets/images/` sert à organiser et pré-trier vos images avant de les déplacer vers `src/assets/images/`.
 
 ---
 
 ## ▶️ Mise à jour Netlify
 
 ### Drag & Drop (le plus simple — 30 secondes)
-1. Remplacez `index.html` dans votre dossier `dschang2026/`
-2. Glissez le dossier entier sur [netlify.com](https://netlify.com) → Deploy manually
+1. Assurez-vous que le dossier `src/` contient `index.html` et les images dans `src/assets/images/`
+2. Glissez le dossier `src/` sur [netlify.com](https://netlify.com) → Deploy manually
 3. ✅ En ligne immédiatement
 
 ### GitHub (si connecté)
-1. Remplacez `index.html` dans le repo GitHub
-2. Netlify redéploie automatiquement en ~60 secondes
+1. Pushez vos changements sur le repo GitHub
+2. Netlify redéploie automatiquement depuis le dossier `src/` en ~60 secondes
 
 ---
 
@@ -62,13 +52,13 @@ dschang2026/
 
 ## 📸 Images — aucune nouvelle image en v6
 
-Toutes les images sont inchangées depuis v5. Si `pdf-challlenge.png` n'affiche pas encore l'image correcte, c'est qu'elle n'est pas encore placée dans `assets/images/`. Le fallback affiche 🧠 automatiquement.
+Toutes les images sont inchangées depuis v5. Si `pdf-challlenge.png` n'affiche pas encore l'image correcte, c'est qu'elle n'est pas encore placée dans `src/assets/images/`. Le fallback affiche 🧠 automatiquement.
 
 ---
 
 ## ✅ Checklist complète (v6)
 
-**Images à placer dans `assets/images/` si pas encore fait :**
+**Images à placer dans `src/assets/images/` si pas encore fait :**
 - [ ] `TeamMRC.jpg` ✅ déjà fournie
 - [ ] `pdf-challlenge.png` ← poster formation Baffoussam
 - [ ] `press-fb-portrait.png` ← vignette QuotientLife

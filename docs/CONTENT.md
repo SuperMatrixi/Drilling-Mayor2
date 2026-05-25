@@ -78,7 +78,7 @@ GALERIE · PRESSE · PROJET PHARE · VIDÉO · **BLOG** · VISION · Rejoindre
 - `press-ig-reel1.png`
 - `press-ig-reel2.png`
 - `press-menouactu-fb.png`
-- `press-fb-villepropre.png`
+- `PosterMerci.jpg`
 - `press-menouactu.png`
 - `press-pointafrique.png`
 
@@ -102,7 +102,7 @@ assets/images/
 ├── press-ig-reel1.png       Presse #2
 ├── press-ig-reel2.png       Presse #3
 ├── press-menouactu-fb.png   Presse #4
-├── press-fb-villepropre.png Presse #5
+├── PosterMerci.jpg          Presse #5
 ├── press-menouactu.png      Presse #6
 ├── press-pointafrique.png   Presse #7
 ├── nettoyage-foreke.jpg     Carousel #2
@@ -114,9 +114,9 @@ assets/images/
 ├── kamto-tessa.jpg          Carousel #8
 ├── universite-dschang.jpg   Carousel #9
 ├── Iconicbaresi.jpg         Carousel #10
-├── SergeTessa6.jpg          Carousel #11
-├── SergeTessa7.jpg          Carousel #12
-├── SergeTessa8.jpg          Carousel #13
+├── BaresiparleauPeuple.jpg  Carousel #11
+├── BaresiparleauPeuple2.jpg Carousel #12
+├── BaresiparleauPeuple3.jpg Carousel #13
 ├── poster-ville-propre.png  Carousel #14
 ├── poster-mrc-2026.jpg      Carousel #15
 └── baresi-pose-nettoyage.jpg Carousel #16

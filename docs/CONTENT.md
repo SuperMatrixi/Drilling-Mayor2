@@ -65,13 +65,14 @@ GALERIE · PRESSE · PROJET PHARE · VIDÉO · **BLOG** · VISION · Rejoindre
 
 | # | Source | Date | Ordre |
 |---|---|---|---|
-| 1 | **QuotientLife** · Facebook Vidéo | Avril 2026 | ⬆️ 1er (NOUVEAU · le plus récent) |
-| 2 | Instagram @dschang2026 · Reel #1 | 2026 (mar/avr) | 2ème |
-| 3 | Instagram @dschang2026 · Reel #2 | 2026 (mar/avr) | 3ème |
-| 4 | MenouActu · Facebook | Février 2026 | 4ème |
-| 5 | MRC Dschang Officiel · Facebook | Février 2026 | 5ème |
-| 6 | MenouActuWeb · Presse locale | Janvier 2026 | 6ème |
-| 7 | Point Afrique · Presse en ligne | 2026 (le + ancien) | ⬇️ 7ème (le plus ancien) |
+| 1 | **MERCi MRC** · MRC Poster | May 2026 | ⬆️ 1er (NOUVEAU · le plus récent) |
+| 2 | **QuotientLife** · Facebook Vidéo | Avril 2026 | ⬆️ 2eme |
+| 3| Instagram @dschang2026 · Reel #1 | 2026 (mar/avr) | 3ème |
+| 4 | Instagram @dschang2026 · Reel #2 | 2026 (mar/avr) | 4ème |
+| 5 | MenouActu · Facebook | Février 2026 | 5ème |
+| 6 | MRC Dschang Officiel · Facebook | Février 2026 | 6ème |
+| 7 | MenouActuWeb · Presse locale | Janvier 2026 | 7ème |
+| 8 | Point Afrique · Presse en ligne | 2026 (le + ancien) | ⬇️ 8ème (le plus ancien) |
 
 **Images requises (presse) :**
 - `press-fb-portrait.png` ← QuotientLife portrait
